@@ -49,6 +49,19 @@ The model helps estimate the fare amount for taxi rides, similar to real-world a
 - R² Score: (your value)
 
 ---
+## 📸 Project Screenshots
+
+### Dataset Preview
+![Dataset](<img width="1905" height="968" alt="Screenshot 2026-03-18 220308" src="https://github.com/user-attachments/assets/3745459d-f668-4ada-8b82-ffbc3a9fa425" />
+)
+
+### Fare vs Distance
+![Graph](<img width="1263" height="830" alt="Screenshot 2026-03-18 222616" src="https://github.com/user-attachments/assets/c04c76c1-c7bc-4369-91a9-bf0cfe612937" />
+)
+
+### Model Performance
+![Output](<img width="822" height="214" alt="Screenshot 2026-03-18 222553" src="https://github.com/user-attachments/assets/e708c4a6-46c6-41aa-92ef-9540783e2484" />
+)
 
 ## 🚀 How to Run
 1. Clone the repository:
