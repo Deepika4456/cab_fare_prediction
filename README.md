@@ -45,8 +45,8 @@ The model helps estimate the fare amount for taxi rides, similar to real-world a
 ---
 
 ## 📈 Model Performance
-- RMSE: (your value)
-- R² Score: (your value)
+- RMSE: (9.635767939908504)
+- R² Score: (0.0015027341738323985)
 
 ---
 ## 📸 Project Screenshots
