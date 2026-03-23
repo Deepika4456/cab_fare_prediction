@@ -1,15 +1,13 @@
-# cab_fare_prediction
-Machine Learning project to predict cab fares using distance, time, and passenger data with regression models.
-# 🚖 Cab Fare Prediction using Machine Learning
+## Cab Fare Prediction using Machine Learning
 
-## 📌 Project Overview
+##  Project Overview
 This project aims to predict cab fares based on various factors such as distance, time, and passenger count using Machine Learning techniques.
 
 The model helps estimate the fare amount for taxi rides, similar to real-world applications like Uber and Ola.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 - Dataset: Uber Fare Dataset
 - Features:
   - pickup_datetime
@@ -20,8 +18,8 @@ The model helps estimate the fare amount for taxi rides, similar to real-world a
 
 ---
 
-## ⚙️ Technologies Used
-- Python 🐍
+## Technologies Used
+- Python 
 - Pandas
 - NumPy
 - Scikit-learn
@@ -30,7 +28,7 @@ The model helps estimate the fare amount for taxi rides, similar to real-world a
 
 ---
 
-## 🔍 Steps Performed
+## Steps Performed
 1. Data Collection
 2. Data Cleaning
 3. Feature Engineering
@@ -44,23 +42,23 @@ The model helps estimate the fare amount for taxi rides, similar to real-world a
 
 ---
 
-## 📈 Model Performance
+##  Model Performance
 - RMSE: (9.635767939908504)
 - R² Score: (0.0015027341738323985)
 
 ---
-## 📸 Project Screenshots
+##  Project Screenshots
 
 ### Dataset Preview
-![Dataset](<img width="1905" height="968" alt="Screenshot 2026-03-18 220308" src="https://github.com/user-attachments/assets/3745459d-f668-4ada-8b82-ffbc3a9fa425" />
+(<img width="1905" height="968" alt="Screenshot 2026-03-18 220308" src="https://github.com/user-attachments/assets/3745459d-f668-4ada-8b82-ffbc3a9fa425" />
 )
 
 ### Fare vs Distance
-![Graph](<img width="1263" height="830" alt="Screenshot 2026-03-18 222616" src="https://github.com/user-attachments/assets/c04c76c1-c7bc-4369-91a9-bf0cfe612937" />
+(<img width="1263" height="830" alt="Screenshot 2026-03-18 222616" src="https://github.com/user-attachments/assets/c04c76c1-c7bc-4369-91a9-bf0cfe612937" />
 )
 
 ### Model Performance
-![Output](<img width="822" height="214" alt="Screenshot 2026-03-18 222553" src="https://github.com/user-attachments/assets/e708c4a6-46c6-41aa-92ef-9540783e2484" />
+(<img width="822" height="214" alt="Screenshot 2026-03-18 222553" src="https://github.com/user-attachments/assets/e708c4a6-46c6-41aa-92ef-9540783e2484" />
 )
 
 ## 🚀 How to Run
