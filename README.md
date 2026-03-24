@@ -40,9 +40,9 @@ The model helps estimate the fare amount for taxi rides, similar to real-world a
 ---
 
 ### 2. Feature Engineering
-- 📏 Distance calculated using Haversine Formula
-- 🕒 Time-based features extracted
-- 🚫 Removed invalid passenger counts
+-  Distance calculated using Haversine Formula
+-  Time-based features extracted
+-  Removed invalid passenger counts
 
 ---
 
@@ -71,7 +71,7 @@ Models used:
 
 ---
 
-## 🧠 Key Insights
+##  Key Insights
 - Distance is the most important factor affecting fare
 - Peak hours increase fare slightly
 - Outliers significantly impact predictions
@@ -92,7 +92,7 @@ Models used:
 (<img width="822" height="214" alt="Screenshot 2026-03-18 222553" src="https://github.com/user-attachments/assets/e708c4a6-46c6-41aa-92ef-9540783e2484" />
 )
 
-## 🚀 How to Run
+##  How to Run
 1. Clone the repository:
 ```bash
 git clone https://github.com/Deepika4456/cab_fare_prediction
