@@ -29,16 +29,37 @@ The model helps estimate the fare amount for taxi rides, similar to real-world a
 ---
 
 ## Steps Performed
-1. Data Collection
-2. Data Cleaning
-3. Feature Engineering
-   - Distance calculation using Haversine formula
-   - Extracting time features (hour, day, month)
-4. Model Building
-   - Linear Regression
-5. Model Evaluation
-   - RMSE
-   - R² Score
+### 1. Data Preprocessing
+- Handled missing values
+- Removed outliers (negative fares, extreme coordinates)
+- Converted datetime into useful features:
+  - Hour
+  - Day
+  - Month
+
+---
+
+### 2. Feature Engineering
+- 📏 Distance calculated using Haversine Formula
+- 🕒 Time-based features extracted
+- 🚫 Removed invalid passenger counts
+
+---
+
+### 3. Exploratory Data Analysis (EDA)
+- Fare distribution
+- Distance vs Fare relationship
+- Passenger count impact
+- Heatmaps & correlation analysis
+
+---
+
+### 4. Model Building
+
+Models used:
+- Linear Regression
+- Decision Tree
+- Random Forest
 
 ---
 
@@ -47,6 +68,16 @@ The model helps estimate the fare amount for taxi rides, similar to real-world a
 - R² Score: (0.0015027341738323985)
 
 ---
+
+---
+
+## 🧠 Key Insights
+- Distance is the most important factor affecting fare
+- Peak hours increase fare slightly
+- Outliers significantly impact predictions
+
+---
+
 ##  Project Screenshots
 
 ### Dataset Preview
@@ -64,4 +95,4 @@ The model helps estimate the fare amount for taxi rides, similar to real-world a
 ## 🚀 How to Run
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/cab-fare-prediction.git
+git clone https://github.com/Deepika4456/cab_fare_prediction
