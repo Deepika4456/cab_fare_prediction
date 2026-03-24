@@ -81,16 +81,16 @@ Models used:
 ##  Project Screenshots
 
 ### Dataset Preview
-(<img width="1905" height="968" alt="Screenshot 2026-03-18 220308" src="https://github.com/user-attachments/assets/3745459d-f668-4ada-8b82-ffbc3a9fa425" />
-)
+<img width="1905" height="968" alt="Screenshot 2026-03-18 220308" src="https://github.com/user-attachments/assets/3745459d-f668-4ada-8b82-ffbc3a9fa425" />
+
 
 ### Fare vs Distance
-(<img width="1263" height="830" alt="Screenshot 2026-03-18 222616" src="https://github.com/user-attachments/assets/c04c76c1-c7bc-4369-91a9-bf0cfe612937" />
-)
+<img width="1263" height="830" alt="Screenshot 2026-03-18 222616" src="https://github.com/user-attachments/assets/c04c76c1-c7bc-4369-91a9-bf0cfe612937" />
+
 
 ### Model Performance
-(<img width="822" height="214" alt="Screenshot 2026-03-18 222553" src="https://github.com/user-attachments/assets/e708c4a6-46c6-41aa-92ef-9540783e2484" />
-)
+<img width="822" height="214" alt="Screenshot 2026-03-18 222553" src="https://github.com/user-attachments/assets/e708c4a6-46c6-41aa-92ef-9540783e2484" />
+
 
 ##  How to Run
 1. Clone the repository:
